@@ -9,6 +9,9 @@ Datatset: https://www.kaggle.com/ritesaluja/bank-note-authentication-uci-data
 Deployed using various methods:
 
 1.) Local Host
+
 2.) Heroku
+
 3.) Flasgger
+
 4.) Streamlit
